@@ -23,5 +23,5 @@ This research investigates whether AI-generated assessments can achieve better a
 - Regular updates will be provided.
 
 📫 **Questions or Collaboration:**  
-Feel free to [open an issue](link to issues page) on this repository or visit my [main GitHub profile](https://github.com/chiz-ai).
+Feel free to open an issue here: [CyberEd-AI-Assessments Issues](https://github.com/chiz-ai/CyberEd-AI-Assessments/issues)
 
